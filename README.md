@@ -1,1 +1,1 @@
-# NEW GCNN-Based Architecture for Semi-Supervised Node Classification
+# New GCNN-Based Architecture for Semi-Supervised Node Classification
